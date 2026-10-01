@@ -1,12 +1,12 @@
 # Task 1: Data Cleaning and Preprocessing
 
-## 📌 Project Overview
+##  Project Overview
 
 This project focuses on cleaning and preprocessing a raw retail dataset using Python and Pandas.
 
 The main objective was to identify and handle missing values, duplicate records, inconsistent data formats, and incorrect data types to prepare the dataset for further analysis.
 
-## 📊 Dataset
+##  Dataset
 
 The dataset contains **8,190 records and 12 columns** related to store-level information.
 
@@ -25,14 +25,14 @@ The dataset contains **8,190 records and 12 columns** related to store-level inf
 - Unemployment
 - IsHoliday
 
-## 🛠️ Tools Used
+##  Tools Used
 
 - Python
 - Pandas
 - Google Colab
 - GitHub
 
-## 🧹 Data Cleaning Process
+##  Data Cleaning Process
 
 The following preprocessing steps were performed:
 
@@ -51,7 +51,7 @@ The following preprocessing steps were performed:
 13. Performed a final check for missing values and duplicate records.
 14. Exported the cleaned dataset as `cleaned_dataset.csv`.
 
-## ✅ Final Result
+##  Final Result
 
 After preprocessing:
 
@@ -63,7 +63,7 @@ After preprocessing:
 
 The cleaned dataset is now ready for further analysis and visualization.
 
-## 📁 Project Files
+## Project Files
 
 ```text
 Task-1-Data-Cleaning/
